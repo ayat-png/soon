@@ -1,0 +1,114 @@
+
+    *.nav-link.active {
+      color: rgb(15, 211, 237);
+    }
+    
+.nav-link {
+  color: rgb(203, 141, 141);
+}
+
+
+
+
+  margin-top: 30px; */
+
+
+
+.card .card-img {
+justify-items: end;
+
+}
+
+
+.toto {
+  color: rgb(6, 22, 89);
+}
+
+.navbar-nav .nav-item .nav-link:hover  {
+background-color: rgb(243, 134, 87);
+}
+ 
+.btn-primary {
+  color: #fff;
+  background-color: #f04c0c;
+  border-color: #d7dce4;
+}
+
+.card-text {
+  color: #f04c0c;
+}
+
+.noon {
+  text-align: center;
+margin-top: 30px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.noon h1 {
+  color: rgb(16, 16, 77);
+}
+
+.noon p {
+  color: rgb(117, 110, 91);
+}
+
+.card-body .card-text {
+  color: black;
+  font-size: 20px;
+}
+
+.toto {
+  color: #f04c0c;
+margin: 30px;
+padding: 10px;
+border-bottom: #f04c0c;
+}
+
+
+header {
+background-color: #fff;
+margin-top: 50px;
+}
+
+.navbar {
+  /* position: fixed;
+top: 0;
+left: 0;
+right: 0; */
+z-index: 100%;
+width: 3;
+padding: 15px 30px;
+box-shadow: 0 10px 15px  rgba(0, 0, 0, 0.1);
+
+
+}
+
+header {
+color: rgb(8, 52, 91);
+text-transform: uppercase;
+font-size: 17px;
+font-weight: 600;
+letter-spacing: 1px;
+border-radius: 5px;
+outline: none;
+border: none;
+text-decoration: none;
+}
+
+header .container.row {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
