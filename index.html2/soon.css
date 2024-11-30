@@ -1,0 +1,94 @@
+body{
+ background-color: rgb(227, 206, 206);   
+}
+
+h1{
+  color: rgb(109, 7, 27);
+border: 3px solid rgb(3, 137, 168);
+outline:5px solid peru ;
+}
+
+div>button{
+ background-color: aquamarine; 
+}
+
+div~p{
+  color: brown;
+}
+
+
+
+/* h1{
+    color: rgb(240, 68, 10);
+    font-size: 100px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    }
+
+
+@media only screen and (min-width:300px) and (max-width:576px){
+body{
+  background-color: rgb(235, 171, 93);  
+}
+
+h1{
+color: brown;
+font-size: 10px;
+}
+nav{
+display: flex;
+flex-direction: column;
+}
+
+
+}
+
+@media only screen and (min-width:576px) and (max-width:768px){
+    body{
+      background-color: rgb(93, 235, 193);  
+    }
+    h1{
+        color: rgb(8, 99, 78);
+        font-size: 30px;
+        }
+    
+    }
+    
+    @media only screen and (min-width:768px) and (max-width:992px){
+        body{
+          background-color: rgb(87, 50, 6);  
+        }
+        h1{
+            color: rgb(56, 42, 165);
+            font-size: 20px;
+            }
+        
+        }
+        
+        @media only screen and (min-width:992px) and (max-width:1200px){
+            body{
+              background-color: rgb(170, 231, 47);  
+            }
+            
+            
+            }
+            
+            @media only screen and (min-width:1200px) and (max-width:1400px){
+                body{
+                  background-color: rgb(93, 166, 235);  
+                }
+                h1{
+color: burlywood;
+font-size: 30px;
+                }
+                
+                }
+                
+             nav{
+                    display: flex;
+                    justify-content: space-between;
+                    }
+ */
